@@ -1,1 +1,4 @@
 
+git add photos/
+git commit -m "add photos"
+git push
